@@ -96,7 +96,7 @@ The analysis focuses on several key areas.
 
 The analysis revealed several important insights about sales and profitability.
 
-Technology category generates the highest share of total profit.
+- Technology category generates the highest share of total profit.
 
 - Consumer segment contributes the largest portion of overall sales.
 
@@ -106,6 +106,9 @@ Technology category generates the highest share of total profit.
 
 - Sales and profit fluctuate across different months, showing seasonal patterns.
 
+# Visualizations
+
+<img width="1031" height="449" alt="Screenshot 2026-03-09 133853" src="https://github.com/user-attachments/assets/6af15e19-95df-464d-8cab-0ceb1bab0195" />
 
 
 
