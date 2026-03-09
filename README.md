@@ -12,15 +12,15 @@ Using Python, the project performs data cleaning, exploratory data analysis, and
 
 The main objectives of this project are:
 
--Analyze monthly sales trends
+- Analyze monthly sales trends
 
--Identify top performing product categories
+- Identify top performing product categories
 
--Compare sales across product sub-categories
+- Compare sales across product sub-categories
 
--Analyze profit trends over time
+- Analyze profit trends over time
 
--Understand performance across customer segments
+- Understand performance across customer segments
 
 # Dataset
 
@@ -28,49 +28,49 @@ The project uses a Superstore retail dataset containing transactional sales reco
 
 Important columns include:
 
--Order Date
+- Order Date
 
--Ship Date
+- Ship Date
 
--Category
+- Category
 
--Sub-Category
+- Sub-Category
 
--Segment
+- Segment
 
--Sales
+- Sales
 
--Profit
+- Profit
 
 # Tools & Technologies
 
 The analysis was performed using:
 
--Python
+- Python
 
--Pandas
+- Pandas
 
--Plotly
+- Plotly
 
--Jupyter Notebook
+- Jupyter Notebook
 
 # Data Cleaning & Preparation
 
 Before performing analysis, several preprocessing steps were completed:
 
--Converted date columns to datetime format
+- Converted date columns to datetime format
 
--Extracted month and year from order dates
+- Extracted month and year from order dates
 
--Checked dataset structure using .info() and .describe()
+- Checked dataset structure using .info() and .describe()
 
--Grouped and aggregated data for analysis
+- Grouped and aggregated data for analysis
 
 # Exploratory Data Analysis (EDA)
 
 The analysis focuses on several key areas.
 
--Sales Analysis
+- Sales Analysis
 
  Monthly sales trend
 
@@ -78,7 +78,7 @@ The analysis focuses on several key areas.
 
  Sales by product sub-category
 
--Profit Analysis
+- Profit Analysis
 
  Monthly profit trend
 
@@ -86,7 +86,7 @@ The analysis focuses on several key areas.
 
  Profit by sub-category
 
--Customer Segment Analysis
+- Customer Segment Analysis
 
  Sales comparison across customer segments
 
@@ -98,11 +98,11 @@ The analysis revealed several important insights about sales and profitability.
 
 Technology category generates the highest share of total profit.
 
--Consumer segment contributes the largest portion of overall sales.
+- Consumer segment contributes the largest portion of overall sales.
 
--Some product sub-categories such as Phones and Chairs generate high revenue.
+- Some product sub-categories such as Phones and Chairs generate high revenue.
 
--Certain categories show high sales but relatively lower profit margins.
+- Certain categories show high sales but relatively lower profit margins.
 
 - Sales and profit fluctuate across different months, showing seasonal patterns.
 
