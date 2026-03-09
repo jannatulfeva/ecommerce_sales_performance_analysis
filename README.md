@@ -146,8 +146,11 @@ Based on the analysis of sales, profit, and customer segments, the following act
 - Monitor underperforming products
 
 # Author & Contact
+
 Jannatul Ferdaus Eva
+
 Data Analyst
+
 📧 Email: jannateva76@gmail.com
 
 
