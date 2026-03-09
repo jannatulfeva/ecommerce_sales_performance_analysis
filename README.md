@@ -122,7 +122,7 @@ The analysis revealed several important insights about sales and profitability.
 
 # How to Run This Project
 1. Clone the repository
-git clone https://github.com/yourusername/superstore-sales-analysis.git
+git clone https://github.com/jannatulfeva/ecommerce_sales_performance_analysis.git
 2. Install required libraries
 pip install pandas plotly
 3. Open and run the notebook
