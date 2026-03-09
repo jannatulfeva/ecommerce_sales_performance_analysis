@@ -21,3 +21,51 @@ The main objectives of this project are:
 -Analyze profit trends over time
 
 -Understand performance across customer segments
+
+# Dataset
+
+The project uses a Superstore retail dataset containing transactional sales records.
+
+Important columns include:
+
+Order Date
+
+Ship Date
+
+Category
+
+Sub-Category
+
+Segment
+
+Sales
+
+Profit
+
+# Tools & Technologies
+
+The analysis was performed using:
+
+Python
+
+Pandas
+
+Plotly
+
+Jupyter Notebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
