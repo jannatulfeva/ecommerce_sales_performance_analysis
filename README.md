@@ -131,8 +131,24 @@ Run the notebook:
 
 ecommerce_sales_performance_analysis.ipynb
 
+# Final Recommendations
 
+Based on the analysis of sales, profit, and customer segments, the following actions are recommended:
 
+- Focus marketing and inventory on high-performing categories and sub-categories
+
+- Optimize low-profit categories
+
+- Target top customer segments
+
+- Plan for seasonal sales fluctuations
+
+- Monitor underperforming products
+
+# Author & Contact
+Jannatul Ferdaus Eva
+Data Analyst
+📧 Email: jannateva76@gmail.com
 
 
 
